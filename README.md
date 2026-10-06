@@ -6,7 +6,7 @@
 
   
 -   ### here is a link to the onshape model
- - https://cad.onshape.com/documents/3b30788ae2492d87d2486c04/w/201ad360add6d8e64e55e685/e/beeb3759fd1119dab0e51cba?renderMode=0&uiState=6ac52d5bea120013d0ec3b10
+https://cad.onshape.com/documents/3b30788ae2492d87d2486c04/w/201ad360add6d8e64e55e685/e/beeb3759fd1119dab0e51cba?renderMode=0&uiState=6ac53690ea120013d0eccc6e
 - # the idea
 - the idea of this project is to make a controlled enviroment for plant growth so you can grow exotic plants or test how different conditions effect plant growth
  - # how it works
