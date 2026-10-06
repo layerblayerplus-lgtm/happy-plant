@@ -19,7 +19,7 @@ BOM
 |1 kg     | 11.64$$| PETG  |   used for printing the enclosure  |    https://www.amazon.ca/gp/product/B0BZCX57D3/ref=ox_sc_act_title_2?smid=A3HD8JN8KXNNW5&psc=1         | 
 |3     | 11.68$| p mosfet  |   used for controling some outputs that need high voltage  |    https://www.amazon.ca/gp/product/B09Y2V6VYG/ref=sw_img_1?smid=&psc=1         | 
 - ## subtotal
-- -152.56 cad or 106.96 USD
+- 152.56 cad or 106.96 USD
 - ## after tax and shipping
 -  195.50 cad or 137.07 usd
 
