@@ -1,13 +1,29 @@
 # happy-plant
 - a user controled eniviroment for plant growth
-#  4 controled conditions
+-
+- 
+-   ### here is a link to the onshape model
+ - https://cad.onshape.com/documents/3b30788ae2492d87d2486c04/w/201ad360add6d8e64e55e685/e/beeb3759fd1119dab0e51cba?renderMode=0&uiState=6ac52d5bea120013d0ec3b10
+- # the idea
+- the idea of this project is to make a controlled enviroment for plant growth so you can grow exotic plants or test how different conditions effect plant growth
+ - # how it works
+ -  - #### how the potentiometers work
+   the user can control each condition by turning the potentiometers. depending on how far the potentiometer Is turned the xaio seeed esp32 S3 asigns the corspoding condition a value between 0 and 9. zero means it is off while nine means it is at full power.
+   - - #### how  the 4 digit display works
+   - the 4 digit display one conditons value in the corspoding digit but changes so quick that it looks like it is showing all of them at the same time
+   - - #### how the air humidity system works
+   - a silicone tube is in the water reservior in the main electronics box and servo is placed near the water cap the silicone tube reacheches up to the water cap where the servo squezes water up through it then the water goes up to the top of the back of the top shell where the tube ends and water is pushed out the end into a ultrasonic piezo which turns it into mist   
+- all the other conditions are powered by a power supply and are controlled by the xaio seeed via a mosfet\
   
- |condition|hardware|
+##  the 4 controled conditions
+  
+ |condition|hardware| 
  |----------------|--------------------------|
  |water temputure | MOSFET and peltier module|
  |air temp        |  MOSFET and peltier module|
  | light level    | MOSFET and LED grow strip |
  |air moisture    | Servo and ultrasonic piezo|
+
 
 # BOM
 
