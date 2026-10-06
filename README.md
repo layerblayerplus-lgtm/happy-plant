@@ -1,7 +1,8 @@
 # happy-plant
 - a user controled eniviroment for plant growth
--
-- 
+-<img width="295" height="312" alt="image" src="https://github.com/user-attachments/assets/2708859e-bd31-4418-87a8-85a70d01c146" />
+
+  
 -   ### here is a link to the onshape model
  - https://cad.onshape.com/documents/3b30788ae2492d87d2486c04/w/201ad360add6d8e64e55e685/e/beeb3759fd1119dab0e51cba?renderMode=0&uiState=6ac52d5bea120013d0ec3b10
 - # the idea
