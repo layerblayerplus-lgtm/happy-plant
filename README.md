@@ -8,7 +8,7 @@
 -   ### here is a link to the onshape model
 https://cad.on
 - # the idea
-- the idea of this project is to make a controlled enviroment for plant growth so you can grow exotic plants or test how different conditions effect plant growth
+- the idea of this project is to make a controlled enviroment for plant growth so you can grow exotic plants or test how different conditions effect plant growth the user can control each condition by turning the potentiometers and can see the current set values on the 4 digit display
  - # how it works
  -  - #### how the potentiometers work
    the user can control each condition by turning the potentiometers. depending on how far the potentiometer Is turned the xaio seeed esp32 S3 asigns the corspoding condition a value between 0 and 9. zero means it is off while nine means it is at full power.
