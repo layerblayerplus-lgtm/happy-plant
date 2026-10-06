@@ -1,5 +1,7 @@
 # happy-plant
 - a user controled eniviroment for plant growth
+
+- 
 -<img width="295" height="312" alt="image" src="https://github.com/user-attachments/assets/2708859e-bd31-4418-87a8-85a70d01c146" />
 
   
