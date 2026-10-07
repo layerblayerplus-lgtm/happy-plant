@@ -39,6 +39,7 @@ https://cad.on
  | heater cap<img width="272" height="386" alt="Screenshot 2026-10-06 8 25 05 PM" src="https://github.com/user-attachments/assets/ba22c307-2ea4-4431-aa60-540066f62f27" />| on the top and bottom of the main electronics box to let heat to dissipate |
  | mister cap <img width="134" height="144" alt="Screenshot 2026-10-06 8 26 31 PM" src="https://github.com/user-attachments/assets/d94bbaa1-1d78-407a-9aa9-422314481d27" /> <img width="134" height="144" alt="Screenshot 2026-10-06 8 26 09 PM" src="https://github.com/user-attachments/assets/d81e2c90-b025-447e-823f-588eda6368b5" />| on the top of the back of the top shell has hole for the ultrasonic piezo |
  | water cap <img width="246" height="276" alt="Screenshot 2026-10-06 8 27 42 PM" src="https://github.com/user-attachments/assets/b31683bd-7335-4010-bb7e-e019970b0c81" /> | a cap on the water reservior that also helps the servo push water up the silicone tube |
+  | custom servo arm<img width="193" height="208" alt="Screenshot 2026-10-06 8 29 36 PM" src="https://github.com/user-attachments/assets/af9fbaf5-a19f-4bda-8d77-52cb1d4b1a95" />| a custom servo arm that helps the servo push water up the tube |
 
 
 # BOM
@@ -56,7 +57,7 @@ https://cad.on
 |2     | 13.99$ | clear Acrylic sheet  8 by 10"      |  used to create a window into the enclousure   |  https://www.amazon.ca/Langaelex-Thickness-Extruded-Plexiglass-Replacement/dp/B0D5LR1ZCX/ref=sr_1_5?dib=eyJ2IjoiMSJ9.SiUxGxJ9OuGL44P_KkjtWfZIsdYckUT6i5URV8ouTBLT88tcmcK06_-q2c-UHRq6z8LfxF-kA7SnV05ZJM61nawCjbNoyJET_fYD_dcZ32irGpD8mufitm0jz0QB5JKpPN90_9fAB-OA4-U1xHqsypsC63AnYEqNXJUMBjGr7WTkWCWJF_BLVyWnI87yk5S9TAy37O0H7AF3BQDS37VTKVOtfHqy1sHlSpgXWQnYZ85CdJqowm5kvPOtVGtj5TRW2Pklo7RN-hLJGHuaCaP5vFEEnIlEpu_zi93ORkJ0b3w.yBZXjK-f6c-c5Ga39FznYcKg_5ovdf_wDBbYR3JaZ1w&dib_tag=se&qid=1791091427&refinements=p_36%3A12035760011&s=industrial&sr=1-5&th=1         | 
 |1 m     |19.39$| silicon tubing 5mm outer diameter   |   used for making a pathway for water to go from the reservoir to the peizo  |     https://www.amazon.ca/dp/B0DTTYHXC5/ref=twister_B0DX6T3ZZM?_encoding=UTF8&th=1       | 
 |1 kg     | 11.64$$| PETG  |   used for printing the enclosure  |    https://www.amazon.ca/gp/product/B0BZCX57D3/ref=ox_sc_act_title_2?smid=A3HD8JN8KXNNW5&psc=1         | 
-|3     | 11.68$| p mosfet  |   used for controling some outputs that need high voltage  |    https://www.amazon.ca/gp/product/B09Y2V6VYG/ref=sw_img_1?smid=&psc=1         | 
+|3     | 11.68$| N mosfet  |   used for controling some outputs that need high voltage  |    https://www.amazon.ca/gp/product/B09Y2V6VYG/ref=sw_img_1?smid=&psc=1         | 
 - ## subtotal
 - 162.56 CAD or 113.96 USD
 - ## after tax and shipping
