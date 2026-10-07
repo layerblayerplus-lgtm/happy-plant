@@ -31,7 +31,8 @@ https://cad.on
   
  |part|discription| 
  |----------------|--------------------------|
- | Top shell | contains the main part of the plant aswell as the air |
+ | Top shell <img width="312" height="272" alt="image" src="https://github.com/user-attachments/assets/6a23a805-4b8d-4adf-990e-4ba9f665b920" />
+| contains the main part of the plant aswell as the air |
  | air water barrier | holds the plant above the water |
  | Bottom shell | contains the water and the roots of the plant |
  | main electronics box | contains a water reservior aswell as most of the electronic including the xaio seeed esp32 |
