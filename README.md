@@ -38,7 +38,7 @@ https://cad.on
  | secondary electronics box <img width="393" height="243" alt="Screenshot 2026-10-06 8 24 08 PM" src="https://github.com/user-attachments/assets/b1e5f10f-056b-490e-9e5e-37d2f41c1945" />| on the side of the bottom shell contains the hardware for the user interface |
  | heater cap<img width="272" height="386" alt="Screenshot 2026-10-06 8 25 05 PM" src="https://github.com/user-attachments/assets/ba22c307-2ea4-4431-aa60-540066f62f27" />| on the top and bottom of the main electronics box to let heat to dissipate |
  | mister cap <img width="134" height="144" alt="Screenshot 2026-10-06 8 26 31 PM" src="https://github.com/user-attachments/assets/d94bbaa1-1d78-407a-9aa9-422314481d27" /> <img width="134" height="144" alt="Screenshot 2026-10-06 8 26 09 PM" src="https://github.com/user-attachments/assets/d81e2c90-b025-447e-823f-588eda6368b5" />| on the top of the back of the top shell has hole for the ultrasonic piezo |
- | water cap <img width="246" height="276" alt="Screenshot 2026-10-06 8 27 42 PM" src="https://github.com/user-attachments/assets/b31683bd-7335-4010-bb7e-e019970b0c81" /> | a cap on the water reservior that also helps the servo push water up the silicone tube |
+ | water cap  <img width="503" height="424" alt="image-removebg-preview (4)" src="https://github.com/user-attachments/assets/7ac539e8-f821-41ef-a284-f38a4a472e17" /> | a cap on the water reservior that also helps the servo push water up the silicone tube |
   | custom servo arm<img width="193" height="208" alt="Screenshot 2026-10-06 8 29 36 PM" src="https://github.com/user-attachments/assets/af9fbaf5-a19f-4bda-8d77-52cb1d4b1a95" />| a custom servo arm that helps the servo push water up the tube |
 
 
