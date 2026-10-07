@@ -15,7 +15,7 @@ https://cad.on
    - - #### how  the 4 digit display works
    - the 4 digit display one conditons value in the corspoding digit but changes so quick that it looks like it is showing all of them at the same time
    - - #### how the air humidity system works
-   - a silicone tube is in the water reservior in the main electronics box and servo is placed near the water cap the silicone tube reacheches up to the water cap where the servo squezes water up through it then the water goes up to the top of the back of the top shell where the tube ends and water is pushed out the end into a ultrasonic piezo which turns it into mist   
+   - water goes from water resorvior to servo through a silicone tube here the servo squeezes the tube against the wall of the water cap and pushes it up to the top of the back of the front shell here it is pushed out of the tube into the ultrasonic piezo where the water is 
 - all the other conditions are powered by a power supply and are controlled by the xaio seeed via a mosfet\
   
 ##  the 4 controled conditions
@@ -27,6 +27,14 @@ https://cad.on
  | light level    | MOSFET and LED grow strip |
  |air moisture    | Servo and ultrasonic piezo|
 
+##  the 3d parts list
+  
+ |part|discription| 
+ |----------------|--------------------------|
+ | | |
+ | | |
+ | | |
+ | | |
 
 # BOM
 
