@@ -2,7 +2,8 @@
 - a user controled eniviroment for plant growth
 
 - 
--<img width="295" height="312" alt="image" src="https://github.com/user-attachments/assets/2708859e-bd31-4418-87a8-85a70d01c146" />
+-<img width="295" height="312" alt="image" src="https://github.com/user-attachments/assets/2708859e-bd31-4418-87a8-85a70d01c146" /> <img width="667" height="484" alt="image" src="https://github.com/user-attachments/assets/31ba48e8-56d6-46df-aa31-5f3ee330a93e" />
+
 
   
 -   ### here is a link to the onshape model
