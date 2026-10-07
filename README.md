@@ -31,10 +31,15 @@ https://cad.on
   
  |part|discription| 
  |----------------|--------------------------|
- | | |
- | | |
- | | |
- | | |
+ | Top shell | contains the main part of the plant aswell as the air |
+ | air water barrier | holds the plant above the water |
+ | Bottom shell | contains the water and the roots of the plant |
+ | main electronics box | contains a water reservior aswell as most of the electronic including the xaio seeed esp32 |
+ | secondary electronics box | on the side of the bottom shell contains the hardware for the user interface |
+ | heater cap | on the top and bottom of the main electronics box to let heat to dissipate |
+ | mister cap | on the top of the back of the top shell has hole for the ultrasonic piezo |
+ | water cap | a cap on the water reservior that also helps the servo push water up the silicone tube |
+
 
 # BOM
 
